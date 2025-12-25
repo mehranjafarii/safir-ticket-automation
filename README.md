@@ -145,7 +145,7 @@ http://localhost:5000
 ⸻
 
 👤 مالک پروژه
-	•	مالک: Mehran Jafarii
+	•	مالک: calledmehran 
 	•	نام سیستم: Safir Automation Engine
 
 ---
